@@ -5,12 +5,12 @@
   "name": "Create: Firearms",
   "description": "A roster of modern firearms under real-world designations, built from a base weapon plus attachments at the smithing table or by deployers, with dynamic stats, traded by weaponsmiths and fletchers.",
   "authors": [
-    "Cube Algos"
+    "Kevin Scheeren"
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/firearms",
-    "sources": "https://github.com/cubealgos-mods/create_firearms",
-    "issues": "https://github.com/cubealgos-mods/create_firearms/issues"
+    "sources": "https://github.com/kevinscheeren-mods/create_firearms",
+    "issues": "https://github.com/kevinscheeren-mods/create_firearms/issues"
   },
   "license": "MIT",
   "environment": "*",

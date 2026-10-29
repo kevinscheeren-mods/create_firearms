@@ -94,7 +94,7 @@ not in either note is marked "to verify at the first ticket" where it appears.
 | Standard | Divergence | Recorded in |
 |---|---|---|
 | `standards/legal/default-license-apache-2-cla.md` | MIT, no CLA | `decisions/DEC-003-licence.md` |
-| "no remote unless justified later" | Public on GitHub under `cubealgos-mods` with the issue tracker there (began on Forgejo under `cubealgos`; GitHub is the home since 2026-10-03), as all four siblings ended up | `decisions/DEC-003-licence.md` |
+| "no remote unless justified later" | Public on GitHub under `kevinscheeren-mods` with the issue tracker there (began on Forgejo under `cubealgos`; GitHub is the home since 2026-10-03), as all four siblings ended up | `decisions/DEC-003-licence.md` |
 | The three earliest siblings' own "Create Fly: `<Name>`" Modrinth display-name pattern | This mod's listing is titled **"Create: Firearms"**, following `create_synthetic_diamonds`'s own precedent rather than the three earlier siblings' | `decisions/DEC-002-name.md` |
 
 ## Decisions

@@ -15,7 +15,7 @@
 | Game versions | 26.2 |
 | Dependencies | Create Fly (required), Fabric API (required) |
 | Icon | `icon.png` in this folder: a real 3D render of the AKM, this mod's own weapon item model (`akm.json` + its own 32x32 texture atlas), tilted to the model's own `gui` display transform, on the cubealgos navy grid badge (`just icon` regenerates it; FA-27, Kevin's 2026-09-21 ruling, replaces the earlier 16x16 pixel-art cartridge placeholder from FA-15) |
-| Links | Source `https://github.com/cubealgos-mods/create_firearms` · Issues `https://github.com/cubealgos-mods/create_firearms/issues` |
+| Links | Source `https://github.com/kevinscheeren-mods/create_firearms` · Issues `https://github.com/kevinscheeren-mods/create_firearms/issues` |
 
 ## Version settings
 
@@ -97,7 +97,7 @@ with; the mod declares exactly that version).
 
 ### Support
 
-Through the issue tracker only (https://github.com/cubealgos-mods/create_firearms/issues), as time
+Through the issue tracker only (https://github.com/kevinscheeren-mods/create_firearms/issues), as time
 allows. Source on GitHub. Include your Minecraft, Fabric and
 Create Fly versions, the mod version from the jar name, and the steps that show the problem. MIT
 licensed.

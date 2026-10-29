@@ -19,7 +19,7 @@ commercial game as a design reference.
 | Impressumspflicht | Attaches to a public web presence; there is none beyond the platform pages. Revisit if a site exists. |
 | Licence and notices | MIT (`decisions/DEC-003-licence.md`); `NOTICE` credits Create Fly (CC0), Create (MIT), Fabric (Apache-2.0). No Minecraft or Create Fly textures, models, or code are copied — every asset is drawn fresh for this mod's own real-world-designated weapons. |
 | Supply chain and release integrity | Builds from a tagged commit with pinned dependencies; the release checksum is in the release notes; no signing at 1.0. |
-| Vulnerability disclosure | The public issue tracker only, on GitHub (`https://github.com/cubealgos-mods/create_firearms/issues`); no private channel, no e-mail address published. GitHub is the home of the code. |
+| Vulnerability disclosure | The public issue tracker only, on GitHub (`https://github.com/kevinscheeren-mods/create_firearms/issues`); no private channel, no e-mail address published. GitHub is the home of the code. |
 | Server trust boundary | Every hit result, damage amount, ammo count, and stat derivation runs entirely server-side; the three client mixins affect only local rendering (zoom, overlay, held-item pose) and carry no authority a malicious client could abuse to affect another player's game state (`domains/combat.md` `COMBAT-DEC-003`). |
 | AI Act, GoBD, sector regulation | Not applicable: no AI component, no financial records, no regulated sector. Real-world firearm designations are used as descriptive names only, with no connection to any regulated weapons trade. |
 
