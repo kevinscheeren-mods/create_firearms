@@ -18,9 +18,9 @@ NOTICE.  Releases carry the jar and its SHA-256 in the notes; see CHANGELOG.md f
 version holds.
 
 Support and security reports go through the issue tracker only (SUPPORT.md):
-https://github.com/cubealgos-mods/create_firearms/issues.
+https://github.com/kevinscheeren-mods/create_firearms/issues.
 
-Source: https://github.com/cubealgos-mods/create_firearms.
+Source: https://github.com/kevinscheeren-mods/create_firearms.
 Releases: https://modrinth.com/mod/firearms.
 
 Development: `just --list`. The specification is `docs/spec/`.
